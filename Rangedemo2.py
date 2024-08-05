@@ -1,0 +1,5 @@
+m, n = input("Enter Number: ").split()
+m = int(m)
+n = int(n)
+x = range(m, n)
+print(list(x))
